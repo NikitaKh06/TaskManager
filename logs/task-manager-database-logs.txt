@@ -1,0 +1,16 @@
+2025/04/14 20:31:15 Logger configured
+2025/04/14 20:31:15 Reading the config
+2025/04/14 20:31:15 Connected to the database
+2025/04/14 20:31:15 Created the table for tasks
+2025/04/14 20:31:38 Request for list of tasks from: /list
+2025/04/14 20:31:38 Request completed
+2025/04/14 20:31:52 Request for creating new task from: /create
+2025/04/14 20:31:52 Request completed
+2025/04/14 20:32:02 Request for creating new task from: /create
+2025/04/14 20:32:02 Request completed
+2025/04/14 20:32:15 Request for marking the task as done from: /done
+2025/04/14 20:32:15 Request completed
+2025/04/14 20:32:32 Request for deleting the task from: /delete
+2025/04/14 20:32:32 Request completed
+2025/04/14 20:32:42 Request for deleting the task from: /delete
+2025/04/14 20:32:42 Request completed
